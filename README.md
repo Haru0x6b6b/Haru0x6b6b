@@ -38,6 +38,7 @@
 
  <p align="center">
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Haru0x6b6b&theme=react&hide_border=true&background=0D1117&bg_color=0D1117"><img alt="Harukk Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Haru0x6b6b&theme=react&hide_border=falsse&background=0D1117&bg_color=0D1117" /></a>
+<br>
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru0x6b6b&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117"><img alt="Harukk Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru0x6b6b&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117" /></a>
 </p>
