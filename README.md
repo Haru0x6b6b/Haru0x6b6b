@@ -49,25 +49,29 @@
 
 
 ## 📊 My Github Stats 2
-
+<br>
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-
+<br>
   <div style="text-align: center;">
     <a href="https://github-readme-stats.vercel.app/api?username=Haru0x6b6b&theme=react&hide_border=false&include_all_commits=false&count_private=true&bg_color=0D1117">
       <img alt="Harukk Github Stats" src="https://github-readme-stats.vercel.app/api?username=Haru0x6b6b&theme=react&hide_border=false&include_all_commits=false&count_private=true&bg_color=0D1117" />
     </a>
+    <br>
   </div>
 <br>
   <div style="text-align: center;">
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=Haru0x6b6b&theme=react&hide_border=true&background=0D1117&bg_color=0D1117">
       <img alt="Harukk Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Haru0x6b6b&theme=react&hide_border=false&background=0D1117&bg_color=0D1117" />
     </a>
+    <br>
   </div>
-
+<br>
 </div>
 <br>
 <div style="text-align: center;">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru0x6b6b&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117">
     <img alt="Harukk Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru0x6b6b&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117" />
   </a>
+  <br>
 </div>
+<br>
