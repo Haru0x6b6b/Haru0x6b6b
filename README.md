@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Haru0x6b6b&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
 <h1 align="center">Hi👋I'm Harukk</h1>
 <h3 align="center">This Is More Info About Me.</h3>
 
